@@ -65,13 +65,13 @@ where `α > 0` is the shape parameter and `β > 0` is the rate parameter.
 ## Usage
 
 ```javascript
-import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-logpdf@esm/index.mjs';
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-logpdf@v0.2.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-logpdf@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-logpdf@v0.2.0-esm/index.mjs';
 ```
 
 #### logpdf( x, alpha, beta )
@@ -160,7 +160,7 @@ y = mylogpdf( 4.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-logpdf@esm/index.mjs';
+import logpdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-logpdf@v0.2.0-esm/index.mjs';
 
 var alpha;
 var beta;
