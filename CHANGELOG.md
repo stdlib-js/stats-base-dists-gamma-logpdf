@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-04-19)
+
+<section class="features">
+
+### Features
+
+-   [`5c47b95`](https://github.com/stdlib-js/stdlib/commit/5c47b95b984cb0e088f642974e05ae9d7d6bffa0) - add C implementation `stats/base/dists/gamma/logpdf` [(#4800)](https://github.com/stdlib-js/stdlib/pull/4800)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3621](https://github.com/stdlib-js/stdlib/issues/3621)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`5c47b95`](https://github.com/stdlib-js/stdlib/commit/5c47b95b984cb0e088f642974e05ae9d7d6bffa0) - **feat:** add C implementation `stats/base/dists/gamma/logpdf` [(#4800)](https://github.com/stdlib-js/stdlib/pull/4800) _(by Shabareesh Shetty, Philipp Burckhardt, stdlib-bot)_
 -   [`c7860af`](https://github.com/stdlib-js/stdlib/commit/c7860af1896d84360294b65f3e37982ca631c435) - **bench:** refactor random number generation in `stats/base/dists/gamma` [(#4929)](https://github.com/stdlib-js/stdlib/pull/4929) _(by Karan Anand)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
+-   Shabareesh Shetty
 
 </section>
 
