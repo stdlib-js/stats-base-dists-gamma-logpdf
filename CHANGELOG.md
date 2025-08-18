@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-08-18)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`f63f8df`](https://github.com/stdlib-js/stdlib/commit/f63f8df9abf7a7ddf9de4e895a64e4699d2f378b) - **style:** remove header section comments from C files _(by Philipp Burckhardt)_
 -   [`8f66d56`](https://github.com/stdlib-js/stdlib/commit/8f66d56a08779f053154777f958a7e18bd02187b) - **bench:** fix indentation and remove stray 0 _(by Philipp Burckhardt)_
 -   [`5c47b95`](https://github.com/stdlib-js/stdlib/commit/5c47b95b984cb0e088f642974e05ae9d7d6bffa0) - **feat:** add C implementation `stats/base/dists/gamma/logpdf` [(#4800)](https://github.com/stdlib-js/stdlib/pull/4800) _(by Shabareesh Shetty, Philipp Burckhardt, stdlib-bot)_
